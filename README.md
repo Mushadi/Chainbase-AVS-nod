@@ -9,9 +9,9 @@ website : https://chainbase.com/
 
 Connect your wallet to get genisis zircon points
 
-testnet : https://genesis.chainbase.com/referral?referral_code=6T1FR6863
+testnet : https://genesis.chainbase.com/
 
-Refferal code : 6T1FR6863
+
 
 ---
 
@@ -26,14 +26,6 @@ Refferal code : 6T1FR6863
 | General Purpose - 4xl | 16 | 64 GB | 5 Gbps |
 
 ---
-
-# Join Crypto Console Community
-
-Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
-
-Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
-
-Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
 
 ---
@@ -52,7 +44,7 @@ VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-1379647
 
 
 
-Youtube guide : https://www.youtube.com/watch?v=k6j7UMvTYq4
+
 
 
 
@@ -154,7 +146,7 @@ eigenlayer operator config create
 ```
 nano metadata.json
 ```
-Fill all the required data, check youtube video for reference
+
 
 ```
 nano operator.yaml
