@@ -13,34 +13,6 @@ testnet : https://genesis.chainbase.com/
 
 
 
----
-
-### **System Requirement**
-
----
-
-| Class | vCPUs (10th gen+) | Memory | Networking Capacity |
-| --- | --- | --- | --- |
-| General Purpose - large | 2 | 8 GB | 5 Mbps |
-| General Purpose - xl | 4 | 16 GB | 25 Mbps |
-| General Purpose - 4xl | 16 | 64 GB | 5 Gbps |
-
----
-
-
----
-
-# VPS Options
-
-Credit Card/Paypal/crypto credit card : 
-
-VPS 1 : [Contabo: Cloud VPS 1](https://www.jdoqocy.com/click-101278318-15692486) 
-
-VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
-
-VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
-
-VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-13796476)
 
 
 
